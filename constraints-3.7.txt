@@ -418,7 +418,6 @@ requests==2.24.0
 responses==0.13.2
 rich==9.2.0
 rsa==4.7.2
-s3transfer==0.4.0
 sasl==0.2.1
 semver==2.13.0
 sendgrid==6.6.0
